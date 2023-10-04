@@ -1,1 +1,2 @@
  Primeira Aulade Git 
+ Hoje a aula foi sobre os comandos do git 
