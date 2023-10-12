@@ -3,3 +3,4 @@ Fausto alterou aqui, depois eu alterei.
  Hoje a aula foi sobre os comandos do git 
  Mais um texto adicionado
 Depois o Fausto alterou aqui
+Arroz, feijão,abacate
