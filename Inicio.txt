@@ -1,3 +1,5 @@
  Primeira Aulade Git 
+Fausto alterou aqui
  Hoje a aula foi sobre os comandos do git 
  Mais um texto adicionado
+Depois o Fausto alterou aqui
